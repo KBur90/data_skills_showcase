@@ -1,0 +1,1 @@
+Because most of my work is in private repositories through my prior employeers the purpose of this repo is to showcase some of my data science, data analysis, and machine learning skills that I have been continuing to work on and expand while on the job hunt and demonstrate proficiency which may not be obvious when looking exclusively at prior work experience.
